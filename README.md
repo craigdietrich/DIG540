@@ -1,6 +1,5 @@
-## DIG540: Digital Collections & Exhibitions
-- Instructor: Craig Dietrich <https://craigdietrich.com>  
-- Slack: DIG540, Fall 2025
+## DIG540: Digital Collections & Exhibitions, Fall 2026
+Instructor: Craig Dietrich <https://craigdietrich.com>
 
 This course covers the technical means and social consequences of
 assembling and sharing cultural data and artifacts. Topics include the
@@ -9,7 +8,7 @@ packages and practices, and an introduction to the special concerns and
 programming concepts necessary to customize off-the-shelf database
 solutions for domain and content appropriateness.
 
-Some of the text in this syllabus written by the previous instructor, John P. Bell <http://www.johnpbell.com>.
+Some of the text in this syllabus was written by the previous instructor, John P. Bell <http://www.johnpbell.com>.
 
 **Course Goals**
 
@@ -63,8 +62,8 @@ For each topic you are expected to:
 -   Participate in the ongoing discussions on Slack. It cannot be
     emphasized enough how important this is to successfully taking an
     online-only course. A significant part of what you get from the
-    class will come in talking and listening to other students and the
-    instructors as they discuss their own take on the material.
+    class will come in talking and listening to other students as they
+    discuss their own take on the material.
 
 This course is designed to be completely asynchronous so there are no
 specific times for meeting with other students or the instructor.
@@ -78,7 +77,7 @@ discussion is also critical to your success in the class and the
 frequency and depth of your interactions with other students and the
 instructor will be considered part of your “attendance” and thus part of
 your grade. If you for any reason think you may have an issue, either
-on a specific day/week or overall, talk to us! It is much easier to make
+on a specific day/week or overall, please talk to me! It is much easier to make
 accommodations ahead of time than after the fact.
 
 **Participation**
@@ -94,17 +93,6 @@ are.
 **Grading**
 
 Grading for your assignments is weighted equally across each week of the class. 
-
-Participation is a significant part of your grade. The more you add
-thoughtful, insightful comments to the discussion the more both you and
-other students will benefit. Note, though, that does not mean you need
-to write a carefully considered treatise in order to contribute! Stream
-environments like Slack work best with shorter, more back-and-forth
-discussions. Questions are always welcome and should be asked publicly
-so that everybody can see the answer unless there is a very good reason
-to ask privately. In many cases you will be expected to look at and
-critique other students’ work as an absolute minimum level of
-participation.
 
 This is a graduate level course and you are expected to perform
 accordingly. Meeting the requirements in an average manner will result
