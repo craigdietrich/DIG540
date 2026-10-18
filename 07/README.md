@@ -4,7 +4,7 @@ More with WordPress and and getting started with MySQL databases.
 
 **This Week's Video**
 
-- <>
+- <https://youtu.be/J04D6-At0Cc>
 
 **Assignment**
 
